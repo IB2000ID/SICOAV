@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfIB_MOD_PLANDEVUELO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IB_MOD_PLANDEVUELO>
+    <Id>1361676</Id>
+    <FromIcao>EBCI</FromIcao>
+    <ToIcao>GMTT</ToIcao>
+    <FromName>Brussels South - Charleroi</FromName>
+    <ToName>IBN BATOUTA</ToName>
+    <FlightNumber xsi:type="xsd:double">0</FlightNumber>
+    <Distance>1008.2019429935701</Distance>
+    <MaxAltitude>35000</MaxAltitude>
+    <Waypoints>23</Waypoints>
+    <Likes>0</Likes>
+    <Downloads>0</Downloads>
+    <Popularity>1539420040</Popularity>
+    <Notes>Basic altitude profile:
+- Ascent Rate: 2500ft/min
+- Ascent Speed: 250kts
+- Cruise Altitude: 35000ft
+- Cruise Speed: 420kts
+- Descent Rate: 1500ft/min
+- Descent Speed: 250kts
+
+Options:
+- Use NATs: yes
+- Use PACOTS: yes
+- Use low airways: yes
+- Use high airways: yes
+</Notes>
+    <EncodedPolyline>km~rH}vdZbg}D~_fGncrDhrqDbvv@r}Pnh\}dE~s`BnrQfirAdao@nsnGjjtCjgbDr|hD~ez@|f{@rb{H|n|Fvk~@x`p@feyAfj{@zexDlzwBnlcCruwBjoz@xgt@b}k@nyf@jvhA`s_Az{bB~euA~hv@prJv}dFnhn@fzhCtrZbpaGfs~D</EncodedPolyline>
+    <CreatedAt />
+    <UpdatedAt />
+    <Tags>
+      <string>generated</string>
+    </Tags>
+    <User xsi:type="xsd:double">0</User>
+    <Application xsi:type="xsd:double">0</Application>
+  </IB_MOD_PLANDEVUELO>
+</ArrayOfIB_MOD_PLANDEVUELO>
